@@ -13,4 +13,6 @@ Inline policy , which has a policy attached to a user
 # **EC2**
 ## Instance types
 ## Instance Roles
+## Private vs Public vs Elastic IP
+## Placement Groups
 ## Security Groups and Ports

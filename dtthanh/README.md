@@ -12,4 +12,5 @@ Inline policy , which has a policy attached to a user
 
 # **EC2**
 ## Instance types
+## Instance Roles
 ## Security Groups and Ports
